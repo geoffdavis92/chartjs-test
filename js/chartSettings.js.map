@@ -1,0 +1,1 @@
+{"version":3,"sources":["es6/chartSettings.js"],"names":[],"mappings":";;;;AAEA,IAAM,WAAW,MAAM,QAAvB;;AAEA,SAAS,MAAT,CAAgB,gBAAhB,GAAmC,oBAAnC","file":"chartSettings.js","sourcesContent":["// Chart Settings\n\nconst settings = Chart.defaults\n\nsettings.global.defaultFontColor = \"rgba(75,75,75,.95)\""]}

@@ -1,0 +1,8 @@
+{
+"version": 3,
+"mappings": "AAIA,IAAI;EACH,OAAO,EAAE,KAAK;;AACd,mBAAc;EACb,MAAM,EAAE,IAAI;EACZ,SAAS,EAND,GAAG",
+"sources": ["css/sass/index.sass"],
+"sourcesContent": ["// index\n\n$mxwidth: 45%\n\nbody\n\tpadding: 150px\n\t.chart-wrapper\n\t\tmargin: auto\n\t\tmax-width: $mxwidth"],
+"names": [],
+"file": "index.css"
+}
